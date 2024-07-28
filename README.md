@@ -17,9 +17,9 @@ No other libraries are required
 
 For this project, I was interestested in using Seattle Airbnb Open Data to better understand:
 
-1. Is there any price trend in calendar? When is the best time to visit Seattle?
-2. What are neighbourhoods has more listings? Any price different between neighbourhoods?
-3. What're other features we can use to predict the price? And try a model using these featue.
+1. Is there any peak time in the calendar that the price is higher?
+2. Is the price different between areas/neighborhoods?
+3. What are other features of the room can make the price different?
 
 
 ## File Descriptions <a name="files"></a>
@@ -28,7 +28,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@lengocanh250483/where-do-you-stay-when-visit-seattle-25b2ac6d94db).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
